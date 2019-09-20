@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="empinfo" label="EmpInfo" language="en" table="sn_srcustomapp01_empdetails">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>empinfo</element>
+            <help/>
+            <hint/>
+            <label>EmpInfo</label>
+            <language>en</language>
+            <name>sn_srcustomapp01_empdetails</name>
+            <plural>EmpInfos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>subbareddy.nelaturi@snc</sys_created_by>
+            <sys_created_on>2019-09-20 06:39:07</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>2661eab8dbc08010ae1b4cd23996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>EmpInfo</sys_name>
+            <sys_package display_value="srcustomApp01" source="sn_srcustomapp01">2221a2b8dbc08010ae1b4cd2399619e9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="srcustomApp01">2221a2b8dbc08010ae1b4cd2399619e9</sys_scope>
+            <sys_update_name>sys_documentation_sn_srcustomapp01_empdetails_empinfo_en</sys_update_name>
+            <sys_updated_by>subbareddy.nelaturi@snc</sys_updated_by>
+            <sys_updated_on>2019-09-20 06:39:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
